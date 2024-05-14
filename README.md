@@ -14,7 +14,7 @@
 - 📫 How to reach me **thiniranilushandeshappriya@gmail.com**
 
 - ⚡ Fun fact **Thinira**
-
+<div style="display:flex;">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tn-deshappriya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![tn-deshappriya GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-deshappriya&theme=algolia)](https://github.com/tn-deshappriya/github-readme-stats) 
 
 <h3 align="left">Connect with me:</h3>
