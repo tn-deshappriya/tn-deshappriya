@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thinira Nilushan Deshappriya.</h1>
 <h3 align="center">A passionate Software Engineer Student from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tn-deshappriya&label=Profile%20views&color=0e75b6&style=flat" alt="tn-deshappriya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tn-deshappriya&label=Profile%20views&color=0e75b6&style=flat" alt="tn-deshappriya" /> </p>
 
-- 🌱 I’m currently learning **Vue.js JavaScript framework |JavaScript**
+- 🌱 I’m currently learning **Vue.js JavaScript framework | JavaScript**
+
+- 🤓 I’m  **Undergraduate at Open University Of Sri Lanka**
 
 - 💬 Ask me about **Frontend Development**
 
