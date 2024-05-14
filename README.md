@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tn-deshappriya&label=Profile%20views&color=0e75b6&style=flat" alt="tn-deshappriya" /> </p>
 
+<hr>
+
 - 🌱 I’m currently learning **Vue.js JavaScript framework | JavaScript**
 
 - 🤓 I’m  **Undergraduate at Open University Of Sri Lanka**
@@ -12,6 +14,8 @@
 - 📫 How to reach me **thiniranilushandeshappriya@gmail.com**
 
 - ⚡ Fun fact **Thinira**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tn-deshappriya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![tn-deshappriya GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-deshappriya&theme=algolia)](https://github.com/tn-deshappriya/github-readme-stats) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
