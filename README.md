@@ -27,7 +27,7 @@
 
 <br>
 
-<div align="right">
+<div align="center">
 
    <h2> My Progress: </h2>
 
