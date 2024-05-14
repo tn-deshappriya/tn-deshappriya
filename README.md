@@ -26,9 +26,14 @@
 <p><a href="https://medium.com/@thiniranilushandeshappriya"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvic6pc2AAc0wAtdfAwBL6IxM-jGer_gWlHdFBbc-5&s" height="50" width="210" alt="Medium-Blogs tn-deshappriya" /></a></p><br><br>
 
 <br>
- <h2> My Progress: </h2>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tn-deshappriya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![tn-deshappriya GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-deshappriya&theme=algolia)](https://github.com/tn-deshappriya/github-readme-stats) 
+<div align="right">
+
+   <h2> My Progress: </h2>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tn-deshappriya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![tn-deshappriya GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-deshappriya&theme=algolia)](https://github.com/tn-deshappriya/github-readme-stats)
+
+</div> 
 
 <!---
 tn-deshappriya/tn-deshappriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
