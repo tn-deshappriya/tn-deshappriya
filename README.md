@@ -1,3 +1,4 @@
+<img src="readme-background.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Thinira Nilushan Deshappriya.</h1>
 <h3 align="center">A passionate Software Engineer Student from Sri Lanka.</h3>
 
