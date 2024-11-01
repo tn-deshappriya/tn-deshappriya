@@ -6,7 +6,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Vue.js JavaScript framework | JavaScript**
+- 🌱 I’m currently learning **React Native with expo cli**
 
 - 🤓 I’m  **Undergraduate at Open University Of Sri Lanka**
 
