@@ -1,38 +1,130 @@
 <img src="readme-background.png" alt="banner">
-<h1 align="center">Hi 👋, I'm Thinira Nilushan Deshappriya.</h1>
-<h3 align="center">A passionate Software Engineer Student from Sri Lanka.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tn-deshappriya&label=Profile%20views&color=0e75b6&style=flat" alt="tn-deshappriya" /> </p>
+<h1 align="center">Hi, I'm Thinira Nilushan Deshappriya <br><br>< Mr . No-Hat /></h1>
 
-<hr>
+###
+###
 
-- 🌱 I’m currently learning **React Native with expo cli**
+<h2 align="center">A passionate Software Engineering student from Sri Lanka.</h2>
 
-- 🤓 I’m  **Undergraduate at Open University Of Sri Lanka**
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **thiniranilushandeshappriya@gmail.com**
-
-- ⚡ Fun fact **Thinira**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/thinira-nilushan-deshappriya-302721309/" target="_blank" rel="noreferrer"> <img src="linkedin.png" alt="Linkedin" width="50" height="50"/> </a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzl8XaJRn5w1kkJU4Mi43uGSCHjzC2w6vMruwjjcQ3Q&s" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> </a> </p>
-
-<h3 align="left">Blog Posts:</h3>
-<p><a href="https://medium.com/@thiniranilushandeshappriya"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvic6pc2AAc0wAtdfAwBL6IxM-jGer_gWlHdFBbc-5&s" height="50" width="210" alt="Medium-Blogs tn-deshappriya" /></a></p><br><br>
-
-<br>
+###
 
 <div align="center">
+  <img height="150" src="geek.gif"  />
+</div>
 
-   <h2> My Progress: </h2>
+###
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tn-deshappriya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![tn-deshappriya GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-deshappriya&theme=algolia)](https://github.com/tn-deshappriya/github-readme-stats)
+<h4 align="left">🌱 I’m currently learning Frontend & Backend Development Specially MERN Stack.<br><br>👯 I’m looking to collaborate on React Js Library.<br><br>🤝 I’m looking for help with Frontend & Backend Design.<br><br>👨‍💻 All of my projects are available @tn-deshappriya<br><br>💬 Ask me about React Js & React Native🙂👍<br><br>📫 How to reach me thiniranilushandeshappriya@gmail.com And www.linkedin.com/in/thinira-nilushan-deshappriya-302721309<br><br>⚡ Fun fact Programmers are two types, Red-Hat & White-Hat ... <br> but I don't have Hat so, I'm No-Hat 😁</h4>
 
-</div> 
+###
+
+<h3 align="center">Social Media</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/thinira-nilushan-deshappriya-302721309" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="105" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="thiniranilushandeshappriya@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="105" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="105" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="105" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="105" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="105" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="105" height="40" alt="stackoverflow logo"  />
+</div>
+
+###
+
+<h3 align="center">My Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="41" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="41" alt="eslint logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="41" alt="android logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="41" alt="codeigniter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="41" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="41" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="41" alt="canva logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="41" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="41" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="41" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="41" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="41" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="41" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="41" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="41" alt="vuejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="41" alt="ruby logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="41" alt="laravel logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="41" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="41" alt="jquery logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="41" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="41" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="41" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="41" alt="wordpress logo"  />
+</div>
+
+###
+
+<h3 align="center">My Progress</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tn-deshappriya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tn-deshappriya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!---
 tn-deshappriya/tn-deshappriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
